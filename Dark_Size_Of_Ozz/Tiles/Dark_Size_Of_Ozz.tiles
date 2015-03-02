@@ -1,0 +1,26 @@
+#Showtime Tiles
+Version = 0.01
+
+.Dirt
+image: Assets/Sprites/Tiles/Exterior/Dirt.png
+collision: false
+
+.Concrete
+image: Assets/Sprites/Tiles/Stone/Concrete.png
+collision: false
+
+.WallCell
+image: Assets/Sprites/Tiles/Walls/Cell_Grey.png
+collision: True
+
+.WallLeft
+image: Assets/Sprites/Tiles/Walls/Wall_Left.png
+collision: True
+
+.WallRight
+image: Assets/Sprites/Tiles/Walls/Wall_Right.png
+collision: True
+
+.WallBottom
+image: Assets/Sprites/Tiles/Walls/Wall_Bottom.png
+collision: True

@@ -1,0 +1,8 @@
+#Showtime Entities
+Version = 0.01
+
+.test
+image-top: Assets/Sprites/Items/Cheese.png
+image-side: Assets/Sprites/Items/Cheese.png
+type: story
+interaction: 1

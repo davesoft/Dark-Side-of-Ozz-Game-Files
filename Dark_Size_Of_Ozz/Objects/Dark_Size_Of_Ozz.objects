@@ -1,0 +1,36 @@
+#Showtime Objects
+Version = 0.01
+
+.CraftingTable
+image: Assets/Sprites/Objects/Mechanics/CraftingTable.png
+type: crafting
+
+.WelcomeMat
+image: Assets/Sprites/Objects/Interior/WelcomeMat.png
+type: decoration
+
+.WoodenTable
+image: Assets/Sprites/Objects/Interior/WoodenTable.png
+type: crafting
+offset-y: -5
+
+.Bush
+image: Assets/Sprites/Objects/Exterior/Bush1.png
+type: scavenge
+loot: stick
+
+.BushBerry
+image: Assets/Sprites/Objects/Exterior/Bush1.png
+type: scavenge
+loot: stick
+
+.BushFlowers
+image: Assets/Sprites/Objects/Exterior/Bush1.png
+type: scavenge
+loot: stick
+
+.Bed
+image: Assets/Sprites/Objects/Interior/Bed.png
+type: resting
+offset-y: -10
+

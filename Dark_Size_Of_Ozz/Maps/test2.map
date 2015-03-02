@@ -1,0 +1,307 @@
+# test2
+! InteriorON
+! TrackerON
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+T 1
+~Row
+~End
+PS 5 4
+E 1 6 2 001
+# PORTALS
+#PORTALTO Interior/Cell.map 0 9 10 
+PORTALFROM Interior/Cell.map 0 4 5
+# ITEMS
+I 3 1 6 00002
+I 3 2 6 00003
+I 4 3 6 00004
+I 4 4 6 00005
+I 4 5 6 00006
+I 1 14 14 00007
+
+#Dave Items Test
+
+I 2 7 8 00100
+I 2 8 8 00101
+I 2 9 8 00102
+I 2 10 8 00103
+
+I 5 10 8 00104
+I 5 10 8 00105
+
+
+#Objects
+O 1 6 5 001
+O 4 5 8 002
+O 4 9 3 003
+#Buildings
+B 1 4 3 Interior/Cell.map

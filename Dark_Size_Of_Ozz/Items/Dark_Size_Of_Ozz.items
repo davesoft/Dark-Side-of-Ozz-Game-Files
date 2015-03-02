@@ -1,0 +1,114 @@
+#Showtime Items
+Version = 0.01
+
+.Cheese
+image: Assets/Sprites/Items/Cheese.png
+type: food
+food-restore: 1
+
+.ScrapMetal
+image: Assets/Sprites/Items/MetalScrap.png
+type: crafting
+
+.Stick
+image: Assets/Sprites/Items/Stick.png
+type: crafting
+
+.Stone
+image: Assets/Sprites/Items/Stone.png
+type: crafting
+
+.Screw
+image: Assets/Sprites/Items/Screw.png
+type: crafting
+
+.Hammer
+image: Assets/Sprites/Items/Hammer.png
+type: tool
+attach: 
+
+.MetalBox
+image: Assets/Sprites/Items/MetalBox.png
+type: crafting
+
+#Dave's Stuff To Test
+
+.MetalPlate
+image: Assets/Sprites/Items/MetalPlate.png
+type: crafting
+
+.Wire
+image: Assets/Sprites/Items/Wire.png
+type: crafting
+
+.ScrapParts
+image: Assets/Mods/daveStuff/ScrapParts.png
+type: crafting
+
+.CeramicShield
+image: Assets/Mods/daveStuff/CeramicShield.png
+type: crafting
+
+.MetalRod
+image: Assets/Sprites/Items/MetalRod.png
+type: crafting
+
+.NeoMagnet
+image: Assets/Mods/daveStuff/NeoMagnet.png
+type: crafting
+
+.MetalPipe
+image: Assets/Sprites/Items/MetalPipe.png
+type: crafting
+
+.Transistor
+image: Assets/Mods/daveStuff/Transistor.png
+type: crafting
+
+.FluidLink
+image: Assets/Mods/daveStuff/FluidLink.png
+type: crafting
+
+.WireCoil
+image: Assets/Mods/daveStuff/WireCoil.png
+type: crafting
+
+.Transceiver
+image: Assets/Mods/daveStuff/Transceiver.png
+type: crafting
+
+.MotorDynamo
+image: Assets/Mods/daveStuff/MotorDynamo.png
+type: crafting
+
+.BatteryCase
+image: Assets/Sprites/Items/Battery.png
+type: crafting
+
+.Capacitor
+image: Assets/Sprites/Items/Capacitor.png
+type: crafting
+
+.Regulator
+image: Assets/Mods/daveStuff/Regulator.png
+type: crafting
+
+.CommsDish
+image: Assets/Mods/daveStuff/CommsDish.png
+type: crafting
+
+.CommsArray
+image: Assets/Mods/daveStuff/CommsArray.png
+type: crafting
+
+.HandGun
+image: Assets/Sprites/Items/Gun.png
+type: crafting
+
+.RobotArm
+image: Assets/Sprites/Items/Arm.png
+type: crafting
+
+.Rubber
+image: Assets/Sprites/Items/Rubber.png
+type: crafting

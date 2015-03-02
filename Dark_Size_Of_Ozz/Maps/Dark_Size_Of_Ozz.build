@@ -1,0 +1,8 @@
+#Showtime Building
+Version = 0.01
+
+.Cell
+image: Assets/Sprites/Buildings/CellMain.png
+collision: True
+player-pos: 8 9 
+audio: no

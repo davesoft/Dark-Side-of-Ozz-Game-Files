@@ -1,0 +1,7 @@
+#Showtime Interactions
+Version = 0.01
+
+.test
+background: Assets/Sprites/Backgrounds/eden_1.png
+type: story
+npc: 1
